@@ -54,4 +54,4 @@ python test_convert_word_to_excel.py test.docx output.xlsx
 - Check the logs for detailed error messages.
 
 ## License
-This project is for demonstration and internal use. See Aspose license terms for library usage.
+This project is free to use. See Aspose license terms for library usage.
